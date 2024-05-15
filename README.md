@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+This App contains
+  * Basic CRUD Operation, using dummy APIs.
+  * Using Redux as a state management.
+  * Authentication & Authorization (Using oAuth).
+  * Responsive UI with Bootstrap.
+  * Implement routing and protected routes.
